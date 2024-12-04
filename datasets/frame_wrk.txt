@@ -1,0 +1,6 @@
+python
+django
+wordpress
+springboot
+oodo
+fastapi

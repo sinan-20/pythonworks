@@ -1,0 +1,19 @@
+
+
+print("message") => print a message in console
+
+type(object) => return data type of object
+
+input("message") => read value from console return in string value
+
+round(object,precition)
+
+len(object)
+
+range(start,stop,step)
+
+min()
+
+max()
+
+enumarate()#return inex and element
